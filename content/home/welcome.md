@@ -19,4 +19,4 @@ design:
 
 <br>
 
-The **Econonomics Laboratory** site is used for personal study and testing purposes only.
+The **Econ Lab** site is used for personal study and testing purposes only, and all content in the site is testing information.
