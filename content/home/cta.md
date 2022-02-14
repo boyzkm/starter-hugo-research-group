@@ -1,5 +1,5 @@
 ---
-title:
+title: Economics Laboratory
 subtitle:
 widget: blank
 headless: true
