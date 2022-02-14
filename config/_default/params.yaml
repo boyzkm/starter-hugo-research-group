@@ -24,14 +24,14 @@ email: zkm@ynufe.edu.cn
 phone: +86 133 1254 5032
 address:
   street: No.237, Longquan Road
-  city: Kuming, Yunnan
+  city: Kuming, Yunnan, P.R. China
   #region: CA
   postcode: '650221'
   country: People's Republic of China
   country_code: PRC
-coordinates:
-  latitude: '102.7234'
-  longitude: '25.0874'
+#coordinates:
+ # latitude: '102.7234'
+ # longitude: '25.0874'
 #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 #office_hours:
 #  - 'Monday 10:00 to 13:00'
