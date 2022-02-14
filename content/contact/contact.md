@@ -10,7 +10,7 @@ headless: true
 weight: 10
 
 title: Contact
-subtitle:
+subtitle: Please enter your information below to contact me
 
 content:
   # Automatically link email and phone or display as text?
@@ -29,4 +29,3 @@ design:
   columns: '1'
 ---
 
-# Please enter information below to contact me.
