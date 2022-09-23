@@ -19,4 +19,7 @@ design:
 
 <br>
 
-The **Econ Lab** site is used for personal study and testing purposes only, and all content in the site is testing information.
+The **Econ Lab** site is used for personal study and testing purposes only, and all content on the site is from templates.
+
+
+本网站内容均来自模板，网站内容仍在建设中。
